@@ -1,12 +1,4 @@
 {
-    "users": {
-        "id":"1",
-        "name": "deependra",
-        "email": "deependra@gmail.com",
-        "phoneNo": "1234567890",
-        "gender": "Male",
-        "skill": "Angular,Typescript ,Html"
-    },
     "ShoppingData":{
         "mobile": [
             {
