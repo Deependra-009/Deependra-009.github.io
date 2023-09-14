@@ -1,4 +1,186 @@
 {
+    "employee":[
+        {
+            "id": 1,
+            "firstName": "John",
+            "lastName": "Doe",
+            "email": "john.doe@example.com",
+            "department": "Engineering",
+            "position": "Software Engineer",
+            "salary": 75000
+        },
+        {
+            "id": 2,
+            "firstName": "Jane",
+            "lastName": "Smith",
+            "email": "jane.smith@example.com",
+            "department": "Marketing",
+            "position": "Marketing Manager",
+            "salary": 80000
+        },
+        {
+            "id": 3,
+            "firstName": "Michael",
+            "lastName": "Johnson",
+            "email": "michael.johnson@example.com",
+            "department": "Finance",
+            "position": "Financial Analyst",
+            "salary": 70000
+        },
+        {
+            "id": 4,
+            "firstName": "Emily",
+            "lastName": "Williams",
+            "email": "emily.williams@example.com",
+            "department": "Human Resources",
+            "position": "HR Specialist",
+            "salary": 65000
+        },
+        {
+            "id": 5,
+            "firstName": "David",
+            "lastName": "Brown",
+            "email": "david.brown@example.com",
+            "department": "Sales",
+            "position": "Sales Representative",
+            "salary": 72000
+        },
+        {
+            "id": 6,
+            "firstName": "Olivia",
+            "lastName": "Jones",
+            "email": "olivia.jones@example.com",
+            "department": "Engineering",
+            "position": "UI Designer",
+            "salary": 68000
+        },
+        {
+            "id": 7,
+            "firstName": "William",
+            "lastName": "Lee",
+            "email": "william.lee@example.com",
+            "department": "Marketing",
+            "position": "Marketing Coordinator",
+            "salary": 60000
+        },
+        {
+            "id": 8,
+            "firstName": "Sophia",
+            "lastName": "Davis",
+            "email": "sophia.davis@example.com",
+            "department": "Finance",
+            "position": "Financial Planner",
+            "salary": 78000
+        },
+        {
+            "id": 9,
+            "firstName": "James",
+            "lastName": "Martinez",
+            "email": "james.martinez@example.com",
+            "department": "Human Resources",
+            "position": "HR Manager",
+            "salary": 85000
+        },
+        {
+            "id": 10,
+            "firstName": "Mia",
+            "lastName": "Garcia",
+            "email": "mia.garcia@example.com",
+            "department": "Sales",
+            "position": "Sales Manager",
+            "salary": 90000
+        },
+        {
+            "id": 11,
+            "firstName": "Benjamin",
+            "lastName": "Clark",
+            "email": "benjamin.clark@example.com",
+            "department": "Engineering",
+            "position": "Software Developer",
+            "salary": 72000
+        },
+        {
+            "id": 12,
+            "firstName": "Charlotte",
+            "lastName": "Hernandez",
+            "email": "charlotte.hernandez@example.com",
+            "department": "Marketing",
+            "position": "Marketing Analyst",
+            "salary": 69000
+        },
+        {
+            "id": 13,
+            "firstName": "Daniel",
+            "lastName": "Lopez",
+            "email": "daniel.lopez@example.com",
+            "department": "Finance",
+            "position": "Financial Analyst",
+            "salary": 70000
+        },
+        {
+            "id": 14,
+            "firstName": "Ava",
+            "lastName": "Perez",
+            "email": "ava.perez@example.com",
+            "department": "Human Resources",
+            "position": "HR Specialist",
+            "salary": 65000
+        },
+        {
+            "id": 15,
+            "firstName": "Matthew",
+            "lastName": "Moore",
+            "email": "matthew.moore@example.com",
+            "department": "Sales",
+            "position": "Sales Representative",
+            "salary": 72000
+        },
+        {
+            "id": 16,
+            "firstName": "Ella",
+            "lastName": "Taylor",
+            "email": "ella.taylor@example.com",
+            "department": "Engineering",
+            "position": "UI Designer",
+            "salary": 68000
+        },
+        {
+            "id": 17,
+            "firstName": "Alexander",
+            "lastName": "Anderson",
+            "email": "alexander.anderson@example.com",
+            "department": "Marketing",
+            "position": "Marketing Coordinator",
+            "salary": 60000
+        },
+        {
+            "id": 18,
+            "firstName": "Sofia",
+            "lastName": "Wilson",
+            "email": "sofia.wilson@example.com",
+            "department": "Finance",
+            "position": "Financial Planner",
+            "salary": 78000
+        },
+        {
+            "id": 19,
+            "firstName": "Liam",
+            "lastName": "Thomas",
+            "email": "liam.thomas@example.com",
+            "department": "Human Resources",
+            "position": "HR Manager",
+            "salary": 85000
+        },
+        {
+            "id": 20,
+            "firstName": "Chloe",
+            "lastName": "White",
+            "email": "chloe.white@example.com",
+            "department": "Sales",
+            "position": "Sales Manager",
+            "salary": 90000
+        }
+    ],
     "ShoppingData":{
         "mobile": [
             {
